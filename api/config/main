@@ -1,0 +1,12 @@
+{
+	"title": "Moncayo Barber",
+	"location": "C/Diego de los Reyes, 163, 41950, Castilleja de la Cuesta",
+	"maps": "https://maps.google.com/maps?q=moncayo%20barberia",
+	"price": "Corte por solo <b>8€</b>, más barba <b>10€</b>",
+	"hours": "Mañanas 10:00-14:00, tardes 17:00-18:00 de Martes a Jueves y Lunes, Viernes y Sábados hasta las 21:00",
+	"tlf": "666 83 81 58",
+	"ig": {
+		"text": "@moncayo.barber",
+		"link": "https://www.instagram.com/moncayo.barber"
+	}
+}

@@ -1,0 +1,8 @@
+[
+	{ "name": "Corte", "price": 800, "time": 30, "categories": ["Servicios populares"]},
+	{ "name": "Corte y Perfilado de barba", "price": 1000, "time": 35, "categories": ["Servicios populares"]},
+	{ "name": "Arreglo barba", "price": 600, "time": 15, "categories": []},
+	{ "name": "Tinte blanco", "price": 3000, "time": 55, "categories": []},
+	{ "name": "Mechas blancas", "price": 1500, "time": 50, "categories": []},
+	{ "name": "Mechas", "price": 1000, "time": 30, "categories": []}
+]
